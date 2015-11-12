@@ -15,7 +15,7 @@ def read(fname):
 
 setup(
     name = "vbinarytree",
-    version = "0.0.0",
+    version = "0.0.4",
     author = "Hector Vargas",
     author_email = "hjvargas1213@gmail.com",
     description = ("A simple implementation of a Binary Tree "
@@ -23,6 +23,6 @@ setup(
     license = "MIT",
     keywords = "example documentation simple bst",
     url = "https://github.com/vargash1/vBinaryTree.py",
-    packages=['vbt'],
+    packages=['vbinarytree'],
     long_description=read('README.md')
 )
