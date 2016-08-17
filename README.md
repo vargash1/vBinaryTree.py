@@ -2,15 +2,19 @@
 This is a simple Implementation of a binary tree in python along with some useful methods. Feel free to take a look at mine and produce your own version. This project was intended to help anyone looking to implement a binary tree with ease. All of the included methods incorporate recursion.
 
 ###Included methods
-* insert -- inserts an element into the tree
-* insert_list -- inserts an array/list into the tree
-* findmax -- Finds node whose data contains the maximum value.
-* secondmax -- Finds node whose data contains the 2nd max value.
-* sum_all -- Sums the node data from the entire tree.
-* sum_range -- Sums the node data that is within the given range from the enitre tree.
-* inorder -- Traverse tree node values using inorder traversal.
-* preorder --  Traverse tree node values using preorder traversal.
-* postorder -- Traverse tree node values using postorder traversal.
+
+| Method Name | Description                                         |
+| :---------: | :-------------------------------------------------: |
+| insert      | Inserts an element into the tree.                   |
+| insert_list | Inserts a list into the tree.                       |
+| insert_dict | Inserts a dict into the tree.                       |
+| findmax     | Finds node whose data contains the maximum value.   |
+| secondmax   | Finds node whose data contains the 2nd max value.   |
+| sum_all     | Sums the node data from the entire tree.            |
+| sum_range   | Sums the node data within passed inclusive range.   |
+| inorder     | Traverse tree node values using inorder traversal.  |
+| preorder    | Traverse tree node values using preorder traversal. |
+| postorder   | Traverse tree node values using postorder traversal.|
 
 ###Install
 ```bash
