@@ -4,7 +4,7 @@ This is a simple Implementation of a binary tree in python along with some usefu
 ###Included methods
 
 | Method Name | Description                                         |
-| :---------: | :-------------------------------------------------: |
+| :---------: | --------------------------------------------------: |
 | insert      | Inserts an element into the tree.                   |
 | insert_list | Inserts a list into the tree.                       |
 | insert_dict | Inserts a dict into the tree.                       |
