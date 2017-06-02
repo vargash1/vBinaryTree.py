@@ -1,7 +1,7 @@
-#Binary Tree Implementation
+# Binary Tree Implementation
 This is a simple Implementation of a binary tree in Python(2.7) along with some useful methods. Feel free to take a look at mine and produce your own version. This project was intended to help anyone looking to implement a binary tree with ease. All methods are documented with docstrings, and documentation is below.
 
-###Included methods
+### Included methods
 
 | Method Name | Description                                          |
 | :---------: | :--------------------------------------------------- |
@@ -16,7 +16,7 @@ This is a simple Implementation of a binary tree in Python(2.7) along with some 
 | preorder    | Traverse tree node values using pre-order traversal. |
 | postorder   | Traverse tree node values using post-order traversal.|
 
-###Install
+### Install
 ```bash
     git clone git@github.com:vargash1/vBinaryTree.py.git
     # Ideally
@@ -24,7 +24,7 @@ This is a simple Implementation of a binary tree in Python(2.7) along with some 
     # Otherwise
     sudo python setup.py install
 ```
-###Sample Usage
+### Sample Usage
 ```python
 	# In script or python shell
     from vbinarytree import vbt
